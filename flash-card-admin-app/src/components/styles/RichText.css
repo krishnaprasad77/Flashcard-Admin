@@ -1,0 +1,29 @@
+.custom-editor .ql-toolbar {
+  border-bottom: none;
+  background-color: white;
+  border-top-right-radius: 0.2rem;
+  border-top-left-radius: 0.2rem;
+}
+
+.custom-editor .ql-toolbar .ql-picker.ql-size .ql-picker-label {
+  font-size: 17px;
+}
+
+.ql-editor {
+  background-color: white;
+}
+
+.ql-container {
+  border-bottom-right-radius: 0.2rem;
+  border-bottom-left-radius: 0.2rem;
+  overflow: hidden;
+}
+
+.ql-editor.ql-blank::before {
+  font-style: normal;
+  font-family: 'Open Sans';
+}
+
+.ql-editor p {
+  font-family: 'Open Sans';
+}

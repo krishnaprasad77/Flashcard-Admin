@@ -1,0 +1,19 @@
+{
+    "statusCode": {
+        "Success": 600,
+        "FieldValidate": 601,
+        "ServerSendError": 602,
+        "GeoFencing": 603,
+        "UserNotFound": 604,
+        "TokenUpdate": 605,
+        "TimeOut": 606,
+        "NoData": 607,
+        "Authorize": 608,
+        "WrongEndPoint": 609,
+        "Dupliation": 610,
+        "ServerError": 650, 
+        "NoNetConn": 651,
+        "TokenExpires":652
+    }
+   
+}
